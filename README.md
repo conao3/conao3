@@ -1,5 +1,7 @@
 # conao3
 
+**Author:** conao3
+
 Software developer specializing in Emacs and Lisp.
 
 I build tools and libraries that improve developer workflows, with a focus on the Emacs ecosystem. I maintain various packages and actively contribute to the open source community.
