@@ -1,22 +1,26 @@
-# Hi, I'm conao3
+# conao3
 
-Software developer with a passion for Emacs and Lisp.
+Software developer passionate about Emacs and Lisp.
 
-## About Me
+---
 
-I enjoy building tools and libraries that improve developer workflows. Most of my work focuses on the Emacs ecosystem, where I maintain various packages and contribute to the community.
+## About
 
-## Stats
+I build tools and libraries that enhance developer workflows, with a focus on the Emacs ecosystem. I maintain various packages and actively contribute to the open-source community.
+
+## GitHub Stats
 
 <p align="center">
   <a href="https://github.com/conao3">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=conao3&show_icons=true&theme=dracula" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=conao3&show_icons=true&theme=dracula" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/conao3">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conao3&layout=compact&show_icons=true&theme=dracula" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=conao3&layout=compact&show_icons=true&theme=dracula" alt="Top Languages" />
   </a>
 </p>
 
-## Get in Touch
+## Connect
 
-Feel free to explore my repositories and reach out if you'd like to collaborate.
+Explore my repositories and feel free to reach out for collaboration.
+
+- [GitHub](https://github.com/conao3)
