@@ -1,12 +1,10 @@
-# Hi, I'm conao3
+# conao3
 
-Software developer with a passion for Emacs and Lisp.
+Software developer focused on Emacs, Lisp, and developer tooling.
 
-## About Me
+---
 
-I enjoy building tools and libraries that improve developer workflows. Most of my work focuses on the Emacs ecosystem, where I maintain various packages and contribute to the community.
-
-## Stats
+I build tools and libraries that make developers more productive. My work centers on the Emacs ecosystem, where I maintain packages and contribute to open source projects.
 
 <p align="center">
   <a href="https://github.com/conao3">
@@ -17,6 +15,6 @@ I enjoy building tools and libraries that improve developer workflows. Most of m
   </a>
 </p>
 
-## Get in Touch
+---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate.
+Browse my repositories or get in touch if you want to collaborate.
